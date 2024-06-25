@@ -4,7 +4,7 @@ const HomePage = () => {
     <div className="w-full h-screen flex flex-col justify-center items-center font-sans bg-gradient-to-t from-[#8EC5FC]  to-[#E0C3FC]">
       <header className="w-full text-center">
         <h1 className="text-6xl font-bold leading-tight mb-4 bg-clip-text text-transparent bg-gradient-to-r from-[#C850C0]  to-[#2B86C5]">
-          Welcome to My Homepage
+          Welcome to BitNews
         </h1>
         
       </header>
